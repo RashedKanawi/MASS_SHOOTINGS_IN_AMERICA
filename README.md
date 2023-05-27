@@ -1,6 +1,3 @@
-project-3
-QR code at the bottom for our website. map
-
 Overview
 This project is focused on analyzing the rise of mass shootings in the USA over the past several decades. The goal is to gain insights into the frequency, location, and other characteristics of these events, as well as to explore potential correlations with various social and political factors.
 
@@ -24,5 +21,3 @@ When there is a problem, there is a solution! Created a few slides on preventing
 
 Interactive Map
 To access the interactive map, navigate to the website and click on "Check out Shootings map". This map utilizes the Mother Jones - Mass Shootings Database dataset in order to visualize the scale and increasing frequency of mass shootings in modern day US. Clicking on the map markers will pull up details featuring the Case, Location, Date, Fatalities, Injured, and a Summary detailing the events that unfolded during the case. The marker size is scaled based on the number of fatalities, hence the more fatalities per case the larger the markers may appear. Layers have been added divided by decades per case which allows us to make a direct comparison in the number of cases from as far back as 1980s to today.
-
-Screenshot 2023-04-06 at 12 03 51 PM
